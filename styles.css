@@ -8,23 +8,3 @@
 body {
   background-color: lightgreen;
 }
-nav{
-    background-color: green;
-    padding: 10px 60px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-}
-nav .logo a{
-    text-decoration: none;
-    color: white;
-    font-size: 35px;
-    font-weight: 600;
-}
-nav ul{
-    display: flex;
-    align-items: center;
-    list-style: none;
-    padding: 10px;
-}
