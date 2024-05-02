@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(143, 105, 55);
+}
+
+h1 {
+    text-align: center;
+}
+
+center {
+    background-color:  rgb(143, 105, 55);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+
+.btn_Voltar {
+    text-align: center;
+    font-size: large;
+}
