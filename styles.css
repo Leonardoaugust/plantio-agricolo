@@ -26,7 +26,7 @@ body {
     font-weight: 500;
     border-radius: 15px;
     border-color: DarkGreen;
-    background-color: DarkGreen;
+    background-color: transparent;
 }
 
 .btn-2{
