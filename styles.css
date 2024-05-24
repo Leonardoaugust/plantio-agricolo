@@ -9,7 +9,7 @@ body {
   background-color: lightgreen;
 }
 
-.center{
+.logodiv{
     display: flex;
     flex-wrap: wrap;
     max-width: 1280px;
