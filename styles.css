@@ -24,12 +24,16 @@ body {
 .btn-1{
     font-size: 30px;
     font-weight: 500;
-    
-}
-.btn-1:hover{
     border-radius: 50px;
     border-color: DarkGreen;
+    background-color: DarkGreen
 }
+.btn-2{
+}
+
+.btn-3{
+}
+
 
 
   
