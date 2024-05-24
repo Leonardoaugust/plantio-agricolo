@@ -17,6 +17,12 @@ button{
     margin:0 auto;
     
 }
-
+img {
+  display: inline-block;
+}
+.p {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
 
   
