@@ -1,15 +1,15 @@
 body {
-    background-color: rgb(143, 105, 55);
+    background-color: rgb(241, 222, 195);
 }
 
 h1 {
     text-align: center;
+    display: inline-block;
 }
 
 center {
-    background-color:  rgb(143, 105, 55);
+    background-color: rgba(247, 208, 154, 0.904);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: large;
 }
 
 p {
@@ -17,7 +17,16 @@ p {
     font-size: large;
 }
 
-.btn_Voltar {
-    text-align: center;
-    font-size: large;
+.container {
+    display: flex;
+}
+
+img {
+    border-radius: 100%;
+}
+
+button {
+    border-radius: 10%;
+    font-size: 30px;
+    background-color: rgb(255, 189, 151);
 }
