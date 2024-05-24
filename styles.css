@@ -21,12 +21,12 @@ body {
     width:50%;
 }
 
-.botoes{
+.btn-1{
     font-size: 30px;
     font-weight: 500;
     
 }
-.botoes:hover{
+.btn-1:hover{
     border-radius: 50px;
     border-color: DarkGreen;
 }
