@@ -11,7 +11,7 @@ button{
     border-color: DarkGrenn;
     padding: 0% 2%;
     cursor: pointer;
-    display: inline-flex;
+    display: flex;
     flex-wrap: wrap;
     max-width: 1280px;
     margin:0 auto;
