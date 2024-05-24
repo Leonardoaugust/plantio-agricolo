@@ -21,7 +21,7 @@ body {
     width:50%;
 }
 
-.btn-1{
+button{
     font-size: 17px;
     font-weight: 500;
     color: #ffcf4a;
@@ -35,13 +35,6 @@ body {
     max-width: 1280px;
     margin:0 auto;
 }
-
-.btn-2{
-}
-
-.btn-3{
-}
-
 
 
   
