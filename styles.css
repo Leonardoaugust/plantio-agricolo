@@ -22,8 +22,11 @@ body {
 }
 
 .botoes{
-    font-size: 45px;
-    border-radius: 50px;
+    font-size: 320px;
+    
+}
+.botoes:hover{
+    border-radius: 120px;
     border-color: DarkGreen;
 }
 
