@@ -27,7 +27,7 @@ body {
     
 }
 .botoes:hover{
-    border-radius: 120px;
+    border-radius: 50px;
     border-color: DarkGreen;
 }
 
