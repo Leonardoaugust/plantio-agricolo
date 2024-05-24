@@ -1,31 +1,14 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  
-}
-
 body {
   background-color: lightgreen;
 }
 
-.logodiv{
-    display: flex;
-    flex-wrap: wrap;
-    max-width: 1280px;
-    margin:0 auto;
-    padding:0 2%;
-}
-
-.logo{
-    width:50%;
 }
 
 button{
     font-size: 17px;
     font-weight: 500;
-    color: #ffcf4a;
-    background-color: transparent;
+    color: LimeGreen;
+    background-color: MediumSeaGreen;
     border-radius: 50px;
     border-color: DarkGrenn;
     padding: 0% 2%;
