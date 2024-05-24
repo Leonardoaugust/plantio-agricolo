@@ -23,3 +23,10 @@ body {
 
 .botoes{
     font-size: 45px;
+    border-radius: 50px;
+    border-color: DarkGreen;
+
+.botoes:hover{
+    background-color: MediumSeaGreen;
+    color: white;
+  
