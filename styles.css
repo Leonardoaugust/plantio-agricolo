@@ -22,11 +22,14 @@ body {
 }
 
 .btn-1{
-    font-size: 30px;
-    font-weight: 8px;
-    border-radius: 10px;
-    border-color: transparent;
-    background-color: Green;
+    font-size: 17px;
+    font-weight: 500;
+    color: #ffcf4a;
+    background-color: transparent;
+    border-radius: 50px;
+    border-color:#ffcf4a;
+    padding: 7px 25px;
+    cursor: pointer;
 }
 
 .btn-2{
