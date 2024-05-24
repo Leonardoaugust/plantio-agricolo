@@ -27,9 +27,13 @@ body {
     color: #ffcf4a;
     background-color: transparent;
     border-radius: 50px;
-    border-color:#ffcf4a;
-    padding: 7px 25px;
+    border-color: DarkGrenn;
+    padding: 0% 2%;
     cursor: pointer;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1280px;
+    margin:0 auto;
 }
 
 .btn-2{
