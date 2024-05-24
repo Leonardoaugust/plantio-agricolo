@@ -25,4 +25,9 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
   
