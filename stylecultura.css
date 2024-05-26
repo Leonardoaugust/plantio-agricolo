@@ -1,3 +1,6 @@
+body{
+    backgroundcolor: lightgreen;
+}
 h1 {
     display: inline-block;
 }
