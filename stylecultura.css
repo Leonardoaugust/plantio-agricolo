@@ -22,4 +22,5 @@ button {
     border-radius: 10%;
     font-size: 30px;
     background-color: rgb(255, 189, 151);
+    cursor: pointer;
 }
